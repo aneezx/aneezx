@@ -2,7 +2,7 @@
 
 Passionate Data & Analytics professional !!
 
-Right from the inception, I have been into multiple projects which involve APIs to secure and share data between multiple systems, data modelling, providing ETL solutions to bring in the right data in the right format and processing/tuning them to be more efficient and understandable.
+I have been into multiple projects which involve APIs to secure and share data between multiple systems, data modelling, providing ETL solutions to bring in the right data in the right format and processing/tuning them to be more efficient and understandable. I also worked as a product owner/product manager for data products to drive the development team in to building a quality product based on the stakeholder's requirements.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneezx&label=Profile%20views&color=0e75b6&style=flat" alt="aneezx" /> </p>
 
