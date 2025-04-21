@@ -1,12 +1,27 @@
 <h1 align="center">👋 Anees' Profile</h1>
 
-Passionate Data & Analytics professional !!
+**Passionate Data & Analytics Professional**
 
-I have been into multiple projects which involve APIs to secure and share data between multiple systems, data modelling, providing ETL solutions to bring in the right data in the right format and processing/tuning them to be more efficient and understandable. I also worked as a product owner/product manager for data products to drive the development team in to building a quality product based on the stakeholder's requirements.
+I have worked on a wide range of projects involving **API integrations** to securely share data across systems, **data modeling**, and building **ETL solutions** that ingest the right data in the right format — optimized for both performance and usability.  
+<br>
+In addition, I have served as a **Product Owner / Product Manager** for data-driven products, collaborating with stakeholders to gather requirements, refine backlogs, and guide development teams in delivering high-quality, impactful solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aneezx&label=Profile%20views&color=0e75b6&style=flat" alt="aneezx" /> </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=aneezx&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=aneezx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=aneezx&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Profile Overview
+
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=aneezx&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=aneezx&theme=dark" alt="GitHub Streak" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aneezx&layout=compact&theme=github_dark" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
