@@ -29,11 +29,15 @@
 - Stakeholder Communication  
 - KPI Definition & Product Analytics  
 - A/B Testing & Experimentation  
+- Technical Writing
+- JIIRA, Confluence, GitHub, GitLab
 
 **Technical & Data Skills**
 - Azure (Data Factory, Databricks, SQL, Storage, Functions)  
+- AWS, GCP
 - SQL Server, PostgreSQL  
-- Python (Pandas, APIs, Automation)  
+- Python (Pandas, APIs, Automation) 
+- Snowflake 
 - Power BI & Tableau  
 - Data Modeling & ETL  
 - API Integrations  
