@@ -1,18 +1,42 @@
 <h2 align="center">👋 Anees' GitHub Profile</h2>
-<h3 align="center">🚀 Experienced Data Engineer & Product Owner</h3>
+<h3 align="center">🚀 Experienced Product Manager</h3>
 
 ---
 
 ### 🧑‍💼 About Me
 
-- 💡 A seasoned **Data Engineer and Product Owner** with 10+ years of experience delivering robust, scalable, and insight-driven solutions.
- - ☁️ Cloud enthusiast with hands-on experience in **Azure** and a growing interest in **AWS** and **GCP** for multi-cloud solutions and modern data architectures.
-- 🧠 Skilled in building end-to-end data products with **Azure, SQL Server, Power BI, Tableau**, and **Databricks**.
-- 🔍 Specialized in transforming raw data into actionable insights through **data modeling**, **API integrations**, and **forecasting pipelines**.
-- 🤝 Adept at managing stakeholder expectations, refining product backlogs, and driving development teams toward quality outcomes.
+- 💡 A seasoned **Product Owner** with 10+ years of experience delivering user‑centric, scalable, and data‑driven products across enterprise environments.
+- 🎯 Strong expertise in **product strategy**, **roadmapping**, **requirements gathering**, and **cross‑functional collaboration** to build products that deliver measurable business value.
+- ☁️ Cloud enthusiast with hands-on experience in **Azure** and growing exposure to **AWS** and **GCP**, helping teams leverage cloud-native capabilities for modern product architectures.
+- 📊 Proven ability to translate complex business problems into actionable data products using **Azure**, **SQL Server**, **Power BI**, **Tableau**, and **Databricks**.
+- 🔍 Experienced in driving **data-informed decision-making**, shaping product vision, enabling analytics, and improving customer/user outcomes through forecasting pipelines and API-driven integrations.
+- 🤝 Adept at managing stakeholder expectations, refining product backlogs, leading agile ceremonies, and ensuring alignment between engineering teams and business goals.
+- 🚀 Passionate about building products that combine engineering rigor with strategic product thinking—bridging the gap between technology, design, and business impact.
+- 🛡️ Hands-on experience with **SIEM tools for cybersecurity and observability**, primarily using **Splunk** and **Datadog** for monitoring, alerting, threat detection, performance analytics, and incident investigations.
+- 🧩 Skilled in **IT Service Management (ITSM)** and **Operations Management** using **ServiceNow**, including workflow automation, incident/problem/change management, CMDB, and service reporting.
+- 🤖 Growing expertise in **AI‑driven product development**, including leveraging LLMs, prompt engineering, and integrating AI capabilities into analytics, automation, and customer‑facing product workflows.
 
+---
 
-<!-- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aneezx&label=Profile%20views&color=0e75b6&style=flat" alt="aneezx" />
-</p>
--->
+### 🛠️ Skills
+
+**Product Management**
+- Product Strategy & Vision  
+- Roadmapping & Prioritization  
+- User Research & Journey Mapping  
+- Requirements Gathering (BRD/PRD)  
+- Agile & Scrum (Sprint Planning, Grooming, Reviews)  
+- Stakeholder Communication  
+- KPI Definition & Product Analytics  
+- A/B Testing & Experimentation  
+
+**Technical & Data Skills**
+- Azure (Data Factory, Databricks, SQL, Storage, Functions)  
+- SQL Server, PostgreSQL  
+- Python (Pandas, APIs, Automation)  
+- Power BI & Tableau  
+- Data Modeling & ETL  
+- API Integrations  
+- CI/CD Basics (GitHub Actions, Azure DevOps)  
+
+---
