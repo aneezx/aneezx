@@ -1,5 +1,5 @@
-<h2 align="center">👋 Anees' GitHub Profile</h2>
-<h3 align="center">🚀 Experienced Product Manager</h3>
+<h2 align="center">👋 Anees' GitHub</h2>
+<h3 align="center">🌟 Experienced Product Manager</h3>
 
 ---
 
@@ -30,17 +30,18 @@
 - KPI Definition & Product Analytics  
 - A/B Testing & Experimentation  
 - Technical Writing
-- JIIRA, Confluence, GitHub, GitLab
+- JIRA, Confluence, GitHub, GitLab
 
 **Technical & Data Skills**
-- Azure (Data Factory, Databricks, SQL, Storage, Functions)  
+- Azure (Data Factory, SQL, Storage, Functions)
+- Power Apps
 - AWS, GCP
 - SQL Server, PostgreSQL  
 - Python (Pandas, APIs, Automation) 
-- Snowflake 
+- Snowflake, Databricks
 - Power BI & Tableau  
-- Data Modeling & ETL  
+- Data Modeling & ELT  
 - API Integrations  
-- CI/CD Basics (GitHub Actions, Azure DevOps)  
+- CI/CD (GitHub Actions, Azure DevOps, Octopus, Teamcity)  
 
 ---
